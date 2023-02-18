@@ -6,13 +6,7 @@
   {
    "url": "https://invalidunit.github.io/libhooker-archive/images/top.png",
    "title": "libhooker",
-   "package": "org.coolstar.libhooker",
-   "hideShadow": false
-  },
-  {
-   "url": "https://invalidunit.github.io/libhooker-archive/images/top.png",
-   "title": "libhooker beta",
-   "package": "org.coolstar.libhooker-beta",
+   "package": "com.nan.libhooker",
    "hideShadow": false
   }
  ]

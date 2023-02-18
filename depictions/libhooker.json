@@ -1,0 +1,19 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://invalidunit.github.io/sileodepiction/Default/top_1.png",
+    "tintColor": "#FF4455",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "历史版本",
+            "views": [
+                {
+                    "title":"libhooker 1.6.0",
+                    "action":"https://invalidunit.github.io/libhooker-archive/debs/org.coolstar.libhooker_1.6.0_iphoneos-arm.deb",
+                    "class":"DepictionTableButtonView"
+                }
+            ]
+        }
+    ],
+}
