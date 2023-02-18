@@ -6,11 +6,48 @@
     "tabs": [
         {
             "class": "DepictionStackView",
-            "tabname": "历史版本",
+            "tabname": "libhooker",
             "views": [
                 {
-                    "title":"libhooker 1.6.0",
+                    "title":"1.6.9",
+                    "action":"https://invalidunit.github.io/libhooker-archive/debs/org.coolstar.libhooker_1.6.9_iphoneos-arm.deb",
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "title":"1.6.3",
+                    "action":"https://invalidunit.github.io/libhooker-archive/debs/org.coolstar.libhooker_1.6.3_iphoneos-arm.deb",
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "title":"1.6.0",
                     "action":"https://invalidunit.github.io/libhooker-archive/debs/org.coolstar.libhooker_1.6.0_iphoneos-arm.deb",
+                    "class":"DepictionTableButtonView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "libhooker-configurator",
+            "views": [
+                {
+                    "title":"1.2+20210403.1617471491.3f520ce",
+                    "action":"https://invalidunit.github.io/libhooker-archive/debs/org.coolstar.libhooker-configurator_1.2+20210403.1617471491.3f520ce_iphoneos-arm.deb",
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "title":"1.1.1-1",
+                    "action":"https://invalidunit.github.io/libhooker-archive/debs/org.coolstar.libhooker-configurator_1.1.1-1_iphoneos-arm.deb",
+                    "class":"DepictionTableButtonView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Safe Mode (libhooker)",
+            "views": [
+                {
+                    "title":"1.1.4",
+                    "action":"https://invalidunit.github.io/libhooker-archive/debs/org.coolstar.safemode_1.1.4_iphoneos-arm.deb",
                     "class":"DepictionTableButtonView"
                 }
             ]
